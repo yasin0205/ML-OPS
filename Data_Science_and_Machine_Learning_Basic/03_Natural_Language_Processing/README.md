@@ -1,4 +1,4 @@
-# Natural Language Processing (NLP) with Python (Spamd Detection)
+# Natural Language Processing (Spam Detection)
 
 This repository contains a Python-based implementation of Natural Language Processing (NLP) techniques to classify SMS messages as either "ham" (legitimate messages) or "spam" (unwanted messages). The project uses the **NLTK** library for text processing and **Scikit-Learn** for machine learning.
 
